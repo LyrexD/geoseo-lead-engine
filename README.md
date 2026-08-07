@@ -7,6 +7,8 @@ Yerel işletmeleri bölge ve sektöre göre keşfeden, web sitelerini teknik SEO
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+![GeoSEO Lead Engine kontrol paneli](docs/screenshots/dashboard.png)
+
 ## Neden bu proje?
 
 Ajansların ve bağımsız geliştiricilerin potansiyel müşterileri yalnızca listelemek yerine neden fırsat olduklarını açıklayabilmesi gerekir. GeoSEO Lead Engine; işletme keşfi, güvenli web denetimi, açıklanabilir puanlama, CRM takibi ve teklif taslağını tek akışta birleştirir.

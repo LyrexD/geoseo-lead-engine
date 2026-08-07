@@ -1,0 +1,21 @@
+name: Özellik önerisi
+description: Ürüne değer katacak odaklı bir geliştirme önerin.
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Çözülen problem
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Önerilen çözüm
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatifler ve ek bağlam
