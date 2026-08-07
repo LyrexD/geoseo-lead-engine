@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.data/
+.DS_Store
+*.log
+.env*
+!.env.example
+.lyrexd-github-work/
+dist.zip
+metadata.json
+assets/.aistudio/
