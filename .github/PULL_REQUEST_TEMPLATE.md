@@ -4,7 +4,7 @@ Bu değişiklik hangi problemi çözüyor?
 
 ## Değişiklikler
 
-- 
+- Değişikliği burada özetleyin.
 
 ## Doğrulama
 
